@@ -1,0 +1,17 @@
+# Install dependencies
+aiohttp==3.11.10
+asyncio==3.4.3
+boto3==1.35.55
+boto3-stubs==1.35.71
+botocore==1.35.55
+botocore-stubs==1.35.71
+pydantic==2.9.2
+pydantic-settings==2.6.1
+pydantic_core==2.23.4
+typing==3.7.4.3
+typing_extensions==4.12.2
+fastapi==0.115.6
+uvicorn==0.32.1
+python-multipart==0.0.19
+pytesseract==0.3.13
+Pillow==11.0.0
